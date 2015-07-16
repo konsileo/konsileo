@@ -179,7 +179,7 @@ html {
   font-size: 100%;
 }
 body {
-  font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+  font-family: Raleway, sans-serif;
   color: #555;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -210,13 +210,16 @@ header h1 {
   font-size: 3rem;
   text-align: center;
   letter-spacing: 0.15em;
+  text-shadow: #111 0 0 5px;
 }
 #main h3 {
   text-align: center;
   font-size: 24px;
   font-size: 1.5rem;
+  font-weight: 800;
   letter-spacing: 0.1em;
   margin-bottom: 100px;
+  text-shadow: #111 0 0 5px;
 }
 #mission {
   margin: 1em 20%;
